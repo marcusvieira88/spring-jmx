@@ -1,5 +1,5 @@
 # Introduction
-This is a Spring JMX project, it is used as example in my blog (https://marcusvieira.tech) tutorials.
+This is a Spring JMX project, it is used as example in my blog [blog tutorials](https://marcusvieira.tech/2019/05/11/spring-annotation-based-jmx-configuration/).
 
 ## Build
 ```
